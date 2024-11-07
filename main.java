@@ -12,7 +12,6 @@ public class Main {
     File madLib = new File("November Madlibs.txt");
     Scanner myReader = new Scanner(madLib);
     // Create variables for words the user will enter
-    String season;
     String verb;
     String adjective;
     String noun;
